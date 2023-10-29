@@ -7,7 +7,7 @@
 
 - Here are some of the projects I'm proud of:
 
-1. [Project 1 Name](https://github.com/[YourGitHubUsername]/[Project1Repo]): Brief description of the project.
+1. [The Space Blog](https://github.com/[AnirudhyaDas/The-Space-Blog]): The Space Blog Website is a dynamic and well-responsive web application created using a combination of technologies, including Flask (a Python web framework), HTML, CSS, and JavaScript.
 
 ## 🌐 Find Me Online
 
