@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @AnirudhyaDas
+- 🔭 I’m currently working on [AnirudhyaDas/Financial-Dashboard]
 - 👀 I’m interested in Python and Power BI.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Frontend and Backend Development.
-
+- 💞️ I’m looking to collaborate on Data Analysis.
+- 📫 How to reach me anirudhyadas2004@gmail.com
+- ⚡ Fun fact Funny
+  
   ## 🚀 Projects
 
 - Here are some of the projects I'm proud of:
