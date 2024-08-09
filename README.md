@@ -15,7 +15,6 @@
 ## 🌐 Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/anirudhya-das-744044202/)
-- [Twitter](https://twitter.com/AnirudhyaDas12)
 - [Email](anirudhadasdas2004@gmail.com)
 
 
