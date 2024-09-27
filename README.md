@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnirudhyaDas
-- 🔭 I’m currently working on [Netflix Content Analysis](https://github.com/AnirudhyaDas/Netflix-Content-Analysis-and-Future-Trend-Prediction-)
+- 🔭 I’m currently working on [Netflix Content Analysis](https://github.com/AnirudhyaDas/Netflix-Content-Analysis-and-Future-Trend-Prediction)
 - 👀 I’m interested in Python and Power BI.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Data Analysis.
