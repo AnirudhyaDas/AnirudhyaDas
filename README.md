@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on [Road Accident Analysis](https://github.com/[AnirudhyaDas/Road-Accident-Analysis-Using-Machine-Learning])
 - 👀 I’m interested in Python, Machine Learning and Web Development.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Data Analysis.
+- 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me anirudhyadas2004@gmail.com
 - ⚡ Fun fact Funny
   
