@@ -24,7 +24,6 @@ I am a passionate Developer who loves building digital experiences that are as f
   ## IDEs
   <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,jupyter" alt="IDEs" />
 
-
 ---
 
 ### 📊 Github Stats
