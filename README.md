@@ -10,12 +10,12 @@ I am a passionate Developer who loves building digital experiences that are as f
 
 ### 🛠️ My Digital Toolbox
 
-| Category | Skills / Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, Java, C++ |
-| **Frontend** | React, Next.js, TailwindCSS, HTML5/CSS3 |
-| **Backend** | Node.js, Express, Django, PostgreSQL |
-| **DevOps** | Docker, Git, AWS, Vercel |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,java,cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,aws,vercel" />
+</p>
 
 ---
 
