@@ -1,8 +1,6 @@
-# ⚡ Hello World, I'm Anirudhya Das! 
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<h1 align="center">Hi 👋, I am Anirudhya Das</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Anirudhya%20Das&fontSize=80&animation=fadeIn" />
-</p>
 
 ### 🛰️ Connecting the dots between code and creativity
 
