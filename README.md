@@ -10,12 +10,20 @@ I am a passionate Developer who loves building digital experiences that are as f
 
 ### 🛠️ My Digital Toolbox
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,java,cpp" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,git,aws,vercel" />
-</p>
+
+  <img src="https://skillicons.dev/icons?i=py,js,java,cpp" alt="Languages" /><br>
+  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" /><br>
+  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mysql" alt="Backend and DB" /><br>
+  
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,py,matplot" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" /><br>
+  
+  <img src="https://skillicons.dev/icons?i=docker,git,aws,vercel" alt="DevOps" /><br>
+  
+  <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,jupyter" alt="IDEs" />
+
 
 ---
 
