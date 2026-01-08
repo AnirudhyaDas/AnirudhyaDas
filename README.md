@@ -29,7 +29,7 @@ I am a passionate Developer who loves building digital experiences that are as f
 
 <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-</div>
+</div><br>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnirudhyaDas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -47,7 +47,7 @@ I am a passionate Developer who loves building digital experiences that are as f
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on:** [MeetNotes](https://github.com/AnirudhyaDas/Meet-MoM)]
+- 🔭 **Currently working on:** [MeetNotes](https://github.com/AnirudhyaDas/Meet-MoM)
 - 🌱 **Learning:** Advanced System Design and Go
 - 💬 **Ask me about:** Machine Learning or Sci-Fi movies
 - 🥅 **2026 Goals:** Contribute to 5 major Open Source projects
@@ -57,9 +57,9 @@ I am a passionate Developer who loves building digital experiences that are as f
 ### 📬 Let's Connect!
 
 <p align="left">
-<a href="https://linkedin.com/in/AnirudhyaDas" target="www.linkedin.com/in/anirudhya-das-744044202"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
-<a href="https://twitter.com/AnirudhyaDas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
-<a href="https://medium.com/@AnirudhyaDas" target="https://github.com/AnirudhyaDas/AnirudhyaDas"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anirudhya-das-744044202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anirudhya_d_arya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AnirudhyaDas Instagram" height="30" width="40" /></a>
+<a href="https://anirudhadasdas2004@gmail.com/@AnirudhyaDas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
 </p>
 
 ---
