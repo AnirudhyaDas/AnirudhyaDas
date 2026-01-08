@@ -17,8 +17,7 @@ I am a passionate Developer who loves building digital experiences that are as f
   ## Backend and DB
   <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,supabase" alt="Backend and DB" /><br>
   ## Data Science
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,matplot" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50px" alt="PowerBI" /><br>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,matplot" alt="Data Science" /><br>
   ## DevOps
   <img src="https://skillicons.dev/icons?i=git,vercel" alt="DevOps" /><br>
   ## IDEs
@@ -42,8 +41,7 @@ I am a passionate Developer who loves building digital experiences that are as f
 </p>
 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnirudhyaDas&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.vercel.app/?user=AnirudhyaDas&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhyaDas&theme=radical" />
 </p>
 
 ---
