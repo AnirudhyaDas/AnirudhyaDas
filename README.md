@@ -17,8 +17,7 @@ I am a passionate Developer who loves building digital experiences that are as f
   ## Backend and DB
   <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,supabase" alt="Backend and DB" /><br>
   ## Data Science
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,py,matplot" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" /><br>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,matplot, https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Data Science" /><br>
   ## DevOps
   <img src="https://skillicons.dev/icons?i=git,vercel" alt="DevOps" /><br>
   ## IDEs
