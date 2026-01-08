@@ -17,7 +17,7 @@ I am a passionate Developer who loves building digital experiences that are as f
   ## Backend and DB
   <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,supabase" alt="Backend and DB" /><br>
   ## Data Science
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,matplot, https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Data Science" /><br>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,matplot, powerbi" alt="Data Science" /><br>
   ## DevOps
   <img src="https://skillicons.dev/icons?i=git,vercel" alt="DevOps" /><br>
   ## IDEs
@@ -25,11 +25,19 @@ I am a passionate Developer who loves building digital experiences that are as f
 
 ---
 
-### 📊 Github Stats
+### 📊 GitHub Power-ups
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnirudhyaDas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhyaDas&layout=compact&langs_count=7&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnirudhyaDas&theme=radical&no-frame=true&column=4" alt="AnirudhyaDas Trophies" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnirudhyaDas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnirudhyaDas&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnirudhyaDas&theme=radical&bg_color=0D1117&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
