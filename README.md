@@ -17,7 +17,7 @@ I am a passionate Developer who loves building digital experiences that are as f
   ## Backend and DB
   <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,supabase" alt="Backend and DB" /><br>
   ## Data Science
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,matplot, powerbi" alt="Data Science" /><br>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,matplot,powerbi" alt="Data Science" /><br>
   ## DevOps
   <img src="https://skillicons.dev/icons?i=git,vercel" alt="DevOps" /><br>
   ## IDEs
@@ -28,7 +28,9 @@ I am a passionate Developer who loves building digital experiences that are as f
 ### 📊 GitHub Power-ups
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnirudhyaDas&theme=radical&no-frame=true&column=4" alt="AnirudhyaDas Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnirudhyaDas&theme=radical&no-frame=true&margin-w=15" alt="AnirudhyaDas Trophies" />
+  </a>
 </p>
 
 <p align="center">
@@ -47,9 +49,9 @@ I am a passionate Developer who loves building digital experiences that are as f
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on:** [A cool project name/link]
+- 🔭 **Currently working on:** [MeetNotes](https://github.com/AnirudhyaDas/Meet-MoM)]
 - 🌱 **Learning:** Advanced System Design and Go
-- 💬 **Ask me about:** JavaScript performance or Sci-Fi movies
+- 💬 **Ask me about:** Machine Learning or Sci-Fi movies
 - 🥅 **2026 Goals:** Contribute to 5 major Open Source projects
 
 ---
@@ -57,9 +59,9 @@ I am a passionate Developer who loves building digital experiences that are as f
 ### 📬 Let's Connect!
 
 <p align="left">
-<a href="https://linkedin.com/in/AnirudhyaDas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/AnirudhyaDas" target="www.linkedin.com/in/anirudhya-das-744044202"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
 <a href="https://twitter.com/AnirudhyaDas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
-<a href="https://medium.com/@AnirudhyaDas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
+<a href="https://medium.com/@AnirudhyaDas" target="https://github.com/AnirudhyaDas/AnirudhyaDas"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
 </p>
 
 ---
