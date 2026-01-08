@@ -27,11 +27,9 @@ I am a passionate Developer who loves building digital experiences that are as f
 
 ### 📊 GitHub Power-ups
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnirudhyaDas&theme=radical&no-frame=true&margin-w=15" alt="AnirudhyaDas Trophies" />
-  </a>
-</p>
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+</div>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnirudhyaDas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
