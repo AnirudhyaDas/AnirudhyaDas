@@ -40,10 +40,6 @@ I am a passionate Developer who loves building digital experiences that are as f
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnirudhyaDas&theme=radical&bg_color=0D1117&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhyaDas&theme=radical" />
-</p>
-
 ---
 
 ### 🚀 What I'm Up To
