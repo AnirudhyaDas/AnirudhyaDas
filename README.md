@@ -69,5 +69,3 @@ I am a passionate Developer who loves building digital experiences that are as f
   <b>— Cory House</b>
 </p>
 
-
-yyy
