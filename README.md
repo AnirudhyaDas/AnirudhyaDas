@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi 👋, I am Anirudhya Das</h1>
 
-<img src="https://drive.google.com/file/d/155-Ea77wjL48bQvvvPxRLLL10bsTV_yo/view?usp=sharing" alt="Alt text" width="55%"/>
+<div align="center">
+  <img src="https://drive.google.com/file/d/155-Ea77wjL48bQvvvPxRLLL10bsTV_yo/view?usp=sharing" alt="octocat" width="55%"/>
+</div><br>
 
 ### 🛰️ Connecting the dots between code and creativity
 
