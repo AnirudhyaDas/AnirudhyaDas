@@ -1,8 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-![MasterHead](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)
+<!-- ![MasterHead](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg) -->
+
 <h1 align="center">Hi 👋, I am Anirudhya Das</h1>
 
+<img src="https://drive.google.com/file/d/155-Ea77wjL48bQvvvPxRLLL10bsTV_yo/view?usp=sharing" alt="Alt text" width="55%"/>
 
 ### 🛰️ Connecting the dots between code and creativity
 
