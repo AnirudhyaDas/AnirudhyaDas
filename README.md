@@ -3,10 +3,9 @@
 <!-- ![MasterHead](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg) -->
 
 <h1 align="center">Hi 👋, I am Anirudhya Das</h1>
-
-<div align="center">
-  <img width="35%" height="35%" alt="octocat-1768314369630" src="https://github.com/user-attachments/assets/909c4896-ceb4-492d-9053-9435480fb60b" />
-</div><br>
+<p align="center">
+  <img width="30%" height="30%" alt="octocat-1768314369630" src="https://github.com/user-attachments/assets/909c4896-ceb4-492d-9053-9435480fb60b" />
+</p><br>
 
 ### 🛰️ Connecting the dots between code and creativity
 
