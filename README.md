@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I am Anirudhya Das</h1>
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/155-Ea77wjL48bQvvvPxRLLL10bsTV_yo/view?usp=sharing" alt="octocat" width="55%"/>
+  <img width="55%" height="55%" alt="octocat-1768314369630" src="https://github.com/user-attachments/assets/909c4896-ceb4-492d-9053-9435480fb60b" />
 </div><br>
 
 ### 🛰️ Connecting the dots between code and creativity
