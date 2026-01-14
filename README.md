@@ -37,7 +37,7 @@ I am a passionate Developer who loves building digital experiences that are as f
 </div><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhyaDas&theme=radical" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnirudhyaDas&theme=dark" alt="GitHub Streak" /></a>
 </p><br>
 
 <p align="center">
