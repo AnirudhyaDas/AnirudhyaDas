@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I am Anirudhya Das</h1>
 <p align="center">
   <img width="30%" height="30%" alt="octocat-1768314369630" src="https://github.com/user-attachments/assets/909c4896-ceb4-492d-9053-9435480fb60b" />
-</p><br>
+</p>
 
 ### 🛰️ Connecting the dots between code and creativity
 
@@ -37,12 +37,12 @@ I am a passionate Developer who loves building digital experiences that are as f
 </div><br>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnirudhyaDas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnirudhyaDas&layout=compact&langs_count=7&theme=radical" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhyaDas&theme=radical" />
+</p><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhyaDas&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnirudhyaDas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnirudhyaDas&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 <p align="center">
