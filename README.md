@@ -32,9 +32,9 @@ I am a passionate Developer who loves building digital experiences that are as f
 
 ### 📊 GitHub Power-ups
 
-<div align="center">
+<!-- <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-</div><br>
+</div><br> -->
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnirudhyaDas&theme=dark" alt="GitHub Streak" /></a>
