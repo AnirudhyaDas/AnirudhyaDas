@@ -36,9 +36,9 @@ I am a passionate Developer who loves building digital experiences that are as f
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
 </div><br> 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnirudhyaDas&theme=dark" alt="GitHub Streak" /></a>
-</p><br>
+</p><br> -->
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnirudhyaDas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
