@@ -64,7 +64,7 @@ I am a passionate Developer who loves building digital experiences that are as f
 <p align="left">
 <a href="www.linkedin.com/in/anirudhya-das-744044202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anirudhya_d_arya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AnirudhyaDas Instagram" height="30" width="40" /></a>
-<a href="https://anirudhadasdas2004@gmail.com/@AnirudhyaDas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="AnirudhyaDas" height="30" width="40" /></a>
+<a href="mailto:anirudhadasdas2004@gmail.com"><img align="center" src="https://lh3.googleusercontent.com/0rpHlrX8IG77awQMuUZpQ0zGWT7HRYtpncsuRnFo6V3c8Lh2hPjXnEuhDDd-OsLz1vua4ld2rlUYFAaBYk-rZCODmi2eJlwUEVsZgg" height="40" width="40" /></a>
 </p>
 
 ---
